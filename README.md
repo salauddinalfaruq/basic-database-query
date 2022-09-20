@@ -1,6 +1,6 @@
 ## basic-database-query
 
-#### Create a database and use the database
+### Create a database and use the database
 - Create a database named database_query.
 - Use database database_query.
 - Create a table named customers.
